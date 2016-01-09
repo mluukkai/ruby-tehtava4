@@ -1,4 +1,4 @@
 # kirjoita koodi tänne
 def tulo(x,y)
-  1
+  x*y
 end
